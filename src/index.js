@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-  console.log('load complete: Code and documentation by Osagiede Nosakhare')
+  console.log('load complete: Code and documentation by Osagiede Nosakhare .A.')
   // your code here
   document.querySelector('form').addEventListener('submit', (e) => {
     e.preventDefault()
